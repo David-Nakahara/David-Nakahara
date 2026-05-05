@@ -105,7 +105,7 @@ Aplicação completa de agendamento e gestão para salões de beleza, com autent
 
 Projeto full-stack para gerenciamento de treinos, progresso e performance na academia.
 
-**Stack:** `Java` · `Spring Boot` · `Spring Security` · `JWT` · `Docker` · `React` · `Recharts`
+**Stack:** `Python` · `FastAPI` · `React` · `JWT` · `MongoDB`
 
 ---
 
