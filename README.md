@@ -101,9 +101,9 @@ Aplicação completa de agendamento e gestão para salões de beleza, com autent
 
 ---
 
-### [GymAPP](https://gymappdem.netlify.app) — Gestor Financeiro
+### [GymAPP](https://gymappdem.netlify.app) — Aplicativo de Treino e Gestão Fitness
 
-Aplicação Full-Stack de gestão financeira com registro de transações, categorização de receitas/despesas e visualização de dados por gráficos interativos.
+Projeto full-stack para gerenciamento de treinos, progresso e performance na academia.
 
 **Stack:** `Java` · `Spring Boot` · `Spring Security` · `JWT` · `Docker` · `React` · `Recharts`
 
