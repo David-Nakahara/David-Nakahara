@@ -53,6 +53,7 @@ const david: Developer = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frontend**
 
@@ -68,6 +69,25 @@ const david: Developer = {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
+## 🚀 Projetos em Destaque
+
+### [AgendaPro](https://salaoelegancee.netlify.app) — Plataforma de Agendamento Full-Stack
+
+Aplicação completa de agendamento e gestão para salões de beleza, com autenticação JWT, controle de rotas protegidas e interface responsiva.
+
+**Stack:** `React` · `Node.js` · `Express` · `MongoDB` · `JWT` · `Tailwind CSS`
+
+---
+
+### [GymAPP](https://gymappdem.netlify.app) — Aplicativo de Treino e Gestão Fitness
+
+Projeto full-stack para gerenciamento de treinos, progresso e performance na academia.
+
+**Stack:** `Python` · `FastAPI` · `React` · `JWT` · `MongoDB`
+
+---
 
 **QA & Ferramentas**
 
@@ -91,23 +111,7 @@ const david: Developer = {
 
 ---
 
-## 🚀 Projetos em Destaque
 
-### [AgendaPro](https://salaoelegancee.netlify.app) — Plataforma de Agendamento Full-Stack
-
-Aplicação completa de agendamento e gestão para salões de beleza, com autenticação JWT, controle de rotas protegidas e interface responsiva.
-
-**Stack:** `React` · `Node.js` · `Express` · `MongoDB` · `JWT` · `Tailwind CSS`
-
----
-
-### [GymAPP](https://gymappdem.netlify.app) — Aplicativo de Treino e Gestão Fitness
-
-Projeto full-stack para gerenciamento de treinos, progresso e performance na academia.
-
-**Stack:** `Python` · `FastAPI` · `React` · `JWT` · `MongoDB`
-
----
 
 ## 📊 GitHub Stats
 
