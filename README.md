@@ -101,7 +101,7 @@ Aplicação completa de agendamento e gestão para salões de beleza, com autent
 
 ---
 
-### [MoneyMind](https://github.com/David-Nakahara/financial-manager) — Gestor Financeiro
+### [GymAPP](https://gymappdem.netlify.app) — Gestor Financeiro
 
 Aplicação Full-Stack de gestão financeira com registro de transações, categorização de receitas/despesas e visualização de dados por gráficos interativos.
 
