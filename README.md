@@ -77,7 +77,7 @@ Aplicação completa de agendamento e gestão para salões de beleza, com autent
 
 ---
 
-### [GymAPP](https://gymappdem.netlify.app) — Aplicativo de Treino e Gestão Fitness
+### [GymAPP](https://github.com/David-Nakahara/GymAPP) — Aplicativo de Treino e Gestão Fitness
 
 Projeto full-stack para gerenciamento de treinos, progresso e performance na academia.
 
