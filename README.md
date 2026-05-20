@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/david-nakahara-8a5132320/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:devdavidnakahara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://davidportefolio.netlify.app"><img src="https://img.shields.io/badge/Portfólio-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a>
+  <a href="https://portefoliodavidnakahara.netlify.app"><img src="https://img.shields.io/badge/Portfólio-00C7B7?style=flat-square&logo=netlify&logoColor=white"/></a>
   <a href="https://www.instagram.com/woo_d4vid/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@davidbuilds1"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
   <a href="https://www.youtube.com/@Recruta0007/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
