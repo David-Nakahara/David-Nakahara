@@ -37,7 +37,7 @@
 
 <ul>
 <li>
-  <b><a https://github.com/David-Nakahara/GymAPP">GymApp</a></b> — Plataforma de gestão fitness<br/>
+  <b><a href="https://github.com/David-Nakahara/GymAPP">GymApp</a></b> — Plataforma de gestão fitness<br/>
   <code>Python</code> · <code>FastAPI</code> · <code>MongoDB</code> · <code>JWT</code> · <code>React</code>
 </li>
 <li>
