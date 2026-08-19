@@ -37,7 +37,7 @@
 
 <ul>
 <li>
-  <b><a href="https://gymappdem.netlify.app">GymApp</a></b> — Plataforma de gestão fitness<br/>
+  <b><a https://github.com/David-Nakahara/GymAPP">GymApp</a></b> — Plataforma de gestão fitness<br/>
   <code>Python</code> · <code>FastAPI</code> · <code>MongoDB</code> · <code>JWT</code> · <code>React</code>
 </li>
 <li>
